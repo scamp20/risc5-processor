@@ -1,0 +1,14 @@
+/.Xil
+/xsim.dir
+clockInfo.txt
+*.log
+utilization.rpt
+timing.rpt
+*.backup
+*.backup.log
+*.jou
+*.backup.jou
+*.wdb
+*.dcp
+*.bit
+*.pb
